@@ -62,7 +62,7 @@ On the **customer side**, users can:
 | **Testing Types** | Manual, API, Regression, Usability, Performance |
 | **Tools** | Jira, Postman, JMeter |
 | **Database** | MySQL |
-| **Web Stack (tested)** | React, Node.js, REST API |
+| **Web Stack (tested)** | REST API |
 | **Environment** | Cloud-based (UK Deployment) |
 
 ---
