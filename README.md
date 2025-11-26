@@ -63,7 +63,7 @@ On the **customer side**, users can:
 | **Tools** | Jira, Postman, JMeter |
 | **Database** | MySQL |
 | **Web Stack (tested)** | REST API |
-| **Environment** | Cloud-based (UK Deployment) |
+| **Environment** | 
 
 ---
 
